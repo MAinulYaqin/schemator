@@ -1,18 +1,11 @@
 {
-<<<<<<< HEAD
-  "extends": ["standard", "prettier"],
-=======
   "extends": ["standard", "standard-react", "prettier"],
->>>>>>> d9f9d09e7fdb7bdf20920473419f58513fe681a4
   "plugins": ["prettier"],
   "rules": {
     "prettier/prettier": "error"
   },
   "env": {
-<<<<<<< HEAD
-=======
     "browser": true,
->>>>>>> d9f9d09e7fdb7bdf20920473419f58513fe681a4
     "jest": true
   }
 }

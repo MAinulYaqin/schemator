@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-/node_modules
-/coverage
-=======
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
@@ -24,4 +20,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
->>>>>>> d9f9d09e7fdb7bdf20920473419f58513fe681a4
